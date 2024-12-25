@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Abdirizak09
-- 
 👀 I'm interested in:
 - Web Development
 - Learning to code
